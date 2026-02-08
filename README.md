@@ -7,7 +7,7 @@ I'm a **Data Engineer with 2.5+ years of hands-on experience**, passionate about
 After exploring web development, Android, and core software engineering, I found my true calling in **data engineering** — where data, systems, and real-world impact intersect.
 
 What pulled me in?  
-👉 **Sports + Data.**  
+
 The way data can uncover hidden patterns behind performances, strategies, and outcomes fascinated me. That curiosity pushed me deep into data pipelines, distributed systems, and cloud platforms.
 
 Today, I focus on **designing end-to-end data pipelines**, ensuring data is **accurate, scalable, and analytics-ready**.
