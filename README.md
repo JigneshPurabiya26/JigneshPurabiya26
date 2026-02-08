@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Engineer
 -------------
-I'm a **Data Engineer with 1.5+ years of hands-on experience**, passionate about turning raw data into reliable, scalable data products.  
+I'm a **Data Engineer with 2.5+ years of hands-on experience**, passionate about turning raw data into reliable, scalable data products.  
 After exploring web development, Android, and core software engineering, I found my true calling in **data engineering** — where data, systems, and real-world impact intersect.
 
 What pulled me in?  
